@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{"rank":1,"name":"coder_king","contests":250,"rating":3950,"profile":"https://codeforces.com/profile/coder_king","country":"USA","countryFlag":"https://flagsapi.com/US/flat/64.png","email":"coder_king@example.com"},{"rank":2,"name":"fast_fingers","contests":230,"rating":3900,"profile":"https://codeforces.com/profile/fast_fingers","country":"India","countryFlag":"https://flagsapi.com/IN/flat/64.png","email":"fast_fingers@example.com"},{"rank":3,"name":"algo_warrior","contests":210,"rating":3850,"profile":"https://codeforces.com/profile/algo_warrior","country":"Japan","countryFlag":"https://flagsapi.com/JP/flat/64.png","email":"algo_warrior@example.com"},{"rank":4,"name":"logic_master","contests":200,"rating":3800,"profile":"https://codeforces.com/profile/logic_master","country":"Russia","countryFlag":"https://flagsapi.com/RU/flat/64.png","email":"logic_master@example.com"},{"rank":5,"name":"dynamic_god","contests":195,"rating":3750,"profile":"https://codeforces.com/profile/dynamic_god","country":"China","countryFlag":"https://flagsapi.com/CN/flat/64.png","email":"dynamic_god@example.com"},{"rank":6,"name":"recursion_ninja","contests":190,"rating":3700,"profile":"https://codeforces.com/profile/recursion_ninja","country":"Germany","countryFlag":"https://flagsapi.com/DE/flat/64.png","email":"recursion_ninja@example.com"},{"rank":7,"name":"bitwise_wizard","contests":185,"rating":3650,"profile":"https://codeforces.com/profile/bitwise_wizard","country":"France","countryFlag":"https://flagsapi.com/FR/flat/64.png","email":"bitwise_wizard@example.com"},{"rank":8,"name":"the_solver","contests":180,"rating":3600,"profile":"https://codeforces.com/profile/the_solver","country":"Brazil","countryFlag":"https://flagsapi.com/BR/flat/64.png","email":"the_solver@example.com"},{"rank":9,"name":"greedy_genius","contests":175,"rating":3550,"profile":"https://codeforces.com/profile/greedy_genius","country":"Canada","countryFlag":"https://flagsapi.com/CA/flat/64.png","email":"greedy_genius@example.com"},{"rank":10,"name":"dp_legend","contests":170,"rating":3500,"profile":"https://codeforces.com/profile/dp_legend","country":"UK","countryFlag":"https://flagsapi.com/GB/flat/64.png","email":"dp_legend@example.com"},{"rank":512,"name":"ahnaf_cp","contests":92,"rating":926,"profile":"https://codeforces.com/profile/ahnaf_cp","country":"Bangladesh","countryFlag":"https://flagsapi.com/BD/flat/64.png","email":"ahnaf_cp@example.com"}]
